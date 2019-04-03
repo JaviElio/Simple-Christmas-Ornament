@@ -1,0 +1,84 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002
+D 60V Vds, 0.115A Id, N-channel MOSFET, SOT-23
+K N-Channel Switching MOSFET
+F https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf
+$ENDCMP
+#
+$CMP 8205A
+D Dual N-Channel Power MOSFET 20V Vds, 6A Id,
+K Dual N-Channel Power MOSFET 6, tssoop-8
+F https://www.maritex.com.pl/product/attachment/91261/8205A.pdf
+$ENDCMP
+#
+$CMP AO3400
+D 30V Vds, 5.8A Id, N-channel MOSFET, SOT-23
+K N-Channel Switching MOSFET
+F http://www.aosmd.com/pdfs/datasheet/ao3400.pdf
+$ENDCMP
+#
+$CMP DW01
+D One Cell Lithium-ion/Polymer Battery Protection IC
+$ENDCMP
+#
+$CMP ESP-01
+D ESP8266 shield 8 pins 3.3V
+K ESP8266 Wifi 
+$ENDCMP
+#
+$CMP ESP-12E
+D ESP-12E
+K ESP8266 Module
+$ENDCMP
+#
+$CMP Ext_Reg
+D Step Down / Step Up converter 1.8V-5V to 3.3V
+$ENDCMP
+#
+$CMP FS8205
+D Dual N-Channel Power MOSFET 20V Vds, 6A Id,
+K Dual N-Channel Power MOSFET 6, SOT23-6
+F http://www.ic-fortune.com/upload/Download/FS8205-DS-19_EN.pdf
+$ENDCMP
+#
+$CMP HT7833
+D HT7833 3V3 500mA
+K LDO Voltage regulator 
+F http://www.holtek.com.tw/documents/10179/82844a36-1633-498c-a6e3-4d99f2d0f6d7
+$ENDCMP
+#
+$CMP MEL7135
+D Current Regulator 350mA, 2.7-6V
+K Current Regulator
+$ENDCMP
+#
+$CMP MMBF170
+D 60V Vds, 0.5 A Id, N-channel MOSFET, SOT-23
+K N-Channel MOSFET
+F https://www.diodes.com/assets/Datasheets/ds30104.pdf
+$ENDCMP
+#
+$CMP OH3144
+D OH3144 Hall Effect Switch
+K Hall Effect Switch
+$ENDCMP
+#
+$CMP TLE4906
+D TLE4906 Hall effect switch 
+K Hall Effect Switch 
+F https://www.infineon.com/dgdl/Infineon-TLE4906_2K-DS-v01_00-en.pdf?fileId=db3a30432e25b009012e2955d6fb378f
+$ENDCMP
+#
+$CMP TLE4913
+D TLE4913 Hall effect switch omnipolar 3V
+K Hall Effect Switch Omnipolar
+F https://www.infineon.com/dgdl/Infineon-TLE4913-DS-v02_02-en.pdf?fileId=db3a304316f66ee80117544449e10647
+$ENDCMP
+#
+$CMP TP4056
+D 1A Li-ion battery charger
+F https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,41 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 8205A
+D Dual N-Channel Power MOSFET 20V Vds, 6A Id,
+K Dual N-Channel Power MOSFET 6, tssoop-8
+F https://www.maritex.com.pl/product/attachment/91261/8205A.pdf
+$ENDCMP
+#
+$CMP ESP-01
+D ESP8266 shield 8 pins 3.3V
+K ESP8266 Wifi
+$ENDCMP
+#
+$CMP ESP-12E
+D ESP-12E
+K ESP8266 Module Wifi
+$ENDCMP
+#
+$CMP HT7833
+D HT7833 3V3 500mA
+K LDO Voltage regulator
+F http://www.holtek.com.tw/documents/10179/82844a36-1633-498c-a6e3-4d99f2d0f6d7
+$ENDCMP
+#
+$CMP ME2108A33
+D DC-DC Boost Converter 3.3V
+K 3.3V Boost Converter
+F Datasheets/Nanjing-Micro-One-Elec-ME2108A33M3G_C236804.pdf
+$ENDCMP
+#
+$CMP MEL7135
+D Current Regulator 350mA, 2.7-6V
+K Current Regulator
+$ENDCMP
+#
+$CMP TP4056
+D 1A Li-ion battery charger
+F https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
+$ENDCMP
+#
+#End Doc Library
