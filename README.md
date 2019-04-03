@@ -40,10 +40,12 @@ Based on this project:
 (1) 10 kOhm Resistor
 
 
+
 **FEATURES:**
 
 This Ornaments plays a song every time the button is pressed. Leds changes its color to the rhythm of the song.
 Attiny85 goes to deep sleep to save energy.
+
 
 **PICTURES**
 
