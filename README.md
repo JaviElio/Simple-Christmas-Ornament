@@ -40,6 +40,11 @@ Based on this project:
 (1) 10 kOhm Resistor
 
 
+**SCHEMATIC:**
+
+ [Schematic PDF](https://github.com/JaviElio/Simple-Christmas-Ornament/blob/master/Schematic.pdf)
+
+
 
 **FEATURES:**
 
